@@ -112,7 +112,7 @@ static Person[] FjernPerson(string navn, Person[] personer)
 // Opgave 8
 // Lav en funktion i den nye bog-klasse der kan regne ud hvor mange timer det tager at læse bogen.
 // Den skal tage en enkelt input parameter, det skal være en int. Denne int er hvor mange sider man kan læse i timen.
-// Den skal returnere en int, altså hvor mange timer det tager at læse bogen.
+// Den skal returnere en int, altså hvor mange timer det tager at læse bogen.(Hvis det blir et kommetal skal den selvfølgelig afrunde til nærmeste int)
 // Lav et nyt bog-object og test selv koden.
 
 
