@@ -119,7 +119,7 @@ static Person[] FjernPerson(string navn, Person[] personer)
 
 // Opgave 9
 // Udvid funktionen fra opgave 8 så den også skriver i consollen hvor mange hele dage det ville svare til. Brug kommetal (floats/doubles).
-// Test koden igen ved at kalde funktionen.
+// Test selv koden igen ved at kalde funktionen.
 
 
 public class Person
